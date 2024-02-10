@@ -1,5 +1,5 @@
-
-  "documents": [
+{
+  "documents":[
     {
       "ID":1,
       "TEXT":" A procedure for user account creation and deletion must be maintained for access to all IT systems. Access will be granted according to an individual’s role and the data classification.  Mandatory authentication must be used. Multi factor authentication must be used for accessing Protected/Restricted data, where this service is provided by Goldsmiths. Users with administrative rights must use their normal user accounts for standard IT system access and only use elevated privileges when required.  installed.",
@@ -16,4 +16,4 @@
       "SUMMARIZATION":"The company received the relative backups and patches for the third parties or verify that keep the necessary backups for the scopes of their work. The backups performed on regular bases and preserved a specific program and frequency according to the back up and patching policy."
     }
   ]
-}
+  }
