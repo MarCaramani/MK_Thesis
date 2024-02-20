@@ -1,17 +1,14 @@
 {
   "documents":[
     {
-      "ID":1,
       "TEXT":" A procedure for user account creation and deletion must be maintained for access to all IT systems. Access will be granted according to an individual’s role and the data classification.  Mandatory authentication must be used. Multi factor authentication must be used for accessing Protected/Restricted data, where this service is provided by Goldsmiths. Users with administrative rights must use their normal user accounts for standard IT system access and only use elevated privileges when required.  installed.",
       "SUMMARIZATION":"The environment of the company is Mid-size and for this reason the approval of the creation of the accounts creation and deletion must be approved by the management of the company. Also the users can't have access to all the systems but only to the systems that are relative with their role and for elevated privileges when they required they must take approval from their management."
     },
     {
-      "ID":2,
       "TEXT":"This policy and its implementation will be subject to internal monitoring and auditing, and the outcomes from these processes will inform and improve practices as part of a commitment to continual improvement. Goldsmiths will also undertake appropriate benchmarking and auditing exercises as may be applicable periodically.",
       "SUMMARIZATION":"Each account and their privileges must periodically review for any changes they may occurred. Also the relative policy must review and improved periodically."
     },
     {
-      "ID":3,
       "TEXT":"T&DS provide backup services for managed storage. Information owners must ensure that appropriate backup and system recovery measures are in place for locally managed and third-party services they use. Appropriate security measures must be taken to protect against damage or loss of backup media. Backup recovery procedures must be tested on a regular basis.",
       "SUMMARIZATION":"The company received the relative backups and patches for the third parties or verify that keep the necessary backups for the scopes of their work. The backups performed on regular bases and preserved a specific program and frequency according to the back up and patching policy."
     }
